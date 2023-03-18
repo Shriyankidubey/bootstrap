@@ -1,0 +1,56 @@
+
+
+.form-inline{
+    margin-right: 3%;
+    width: 120rem;
+    height: auto;
+    border-bottom: 1px solid rgb(214, 213, 213);
+}
+
+.input-group{
+
+    margin-right:auto;
+    height: 8rem;
+
+}
+.form-control{
+    width: 110rem;
+    height: 4rem;
+    margin-top: 2.5rem;
+    margin-left: 22rem;
+    border-radius: 11px;
+    padding-right: 48rem;
+    padding-left: 1rem;
+
+
+}
+.material-icons.search{
+
+    padding: 4rem;
+    height: 5rem;
+    margin-right: 7rem;
+}
+
+.addNew{
+
+    margin-right:40%;
+    height: 4rem;
+    padding: 2px;
+    width: 12rem;
+    border-radius: 4rem;
+}
+.col-1{
+    
+    margin-top: 7%;
+    height: 70rem;
+    border-right: 1px solid rgb(214, 213, 213);
+    margin-right :10rem;
+    
+}
+.card{
+    width: 3rem;
+    background-color: transparent;
+}
+.img-fluid{
+    width: 5rem;
+}
